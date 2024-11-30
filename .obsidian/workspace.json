@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "95eaaf585c69acb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0e3dccd16373f26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5660551822945da",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MyBatis/MyBatis.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "MyBatis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45f62ec563d73dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "94d75a2964e1b243",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2a67e5f80dbad0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d2434d75add23b8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "44e427fa3557e6f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4948bf86b66adaa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bfcf10553b48d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "256fbaddf699bb8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "35a87b2a3c2f8a14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "f9af17b791eb9db4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8680fca0c3a69ab2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "f14dd9843c8b1a1c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b5660551822945da",
+  "lastOpenFiles": [
+    "MyBatis/搭建MyBatis.md",
+    "MyBatis/MyBatis.pdf",
+    "MyBatis/MyBatis3.5.4官方文档.pdf",
+    "MyBatis/MyBatis简介.md",
+    "Excalidraw/Drawing 2024-11-30 13.55.23.excalidraw.md",
+    "Excalidraw",
+    "MyBatis",
+    "Excalidraw/Drawing 2024-11-27 22.27.18.excalidraw.md",
+    "Welcome.md"
+  ]
+}
