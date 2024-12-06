@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cb948545d6f98bb0",
+        "id": "e64f6b106f6707dd",
         "type": "tabs",
         "children": [
           {
-            "id": "bedcb997079910de",
+            "id": "c56624bf14ed4180",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据结构与算法/算法/Prim算法.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prim算法"
+              "title": "新标签页"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +56,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -174,10 +170,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bedcb997079910de",
+  "active": "c56624bf14ed4180",
   "lastOpenFiles": [
-    "MyBatis/Mybatis中的PageHelper.md",
+    "工具使用/maven/maven.md",
     "数据结构与算法/算法/Prim算法.md",
+    "工具使用/maven/image/img015.b413af9d.png",
+    "工具使用/maven/image/img014.cc0e87c3.png",
+    "工具使用/maven/image/img012.5a3b1f11.png",
+    "工具使用/maven/image/img010.e3573d0b.png",
+    "工具使用/maven/image/img009.7f737ed7.png",
+    "工具使用/maven/image/img006.ab4f2e31.png",
+    "工具使用/maven/image/img006.43ebb0ac.png",
+    "工具使用/maven/image/img005.4b81e5ab.png",
+    "工具使用/maven/image/img002.e1ac8197.png",
+    "工具使用/maven/image/img001.612496a3.png",
+    "工具使用/maven/image",
+    "工具使用/maven",
+    "备份.md",
+    "工具使用",
+    "MyBatis/Mybatis中的PageHelper.md",
     "MyBatis/MyBatis.pdf",
     "MyBatis/MyBatis缓存.md",
     "MyBatis/MyBatis的动态SQL.md",
@@ -198,9 +209,6 @@
     "数据结构/练习/第七章 图.md",
     "数据结构与算法/练习/第七章-图练习.html",
     "数据结构/练习/作业_测练 ｜ 理工智课 (12_1_2024 1：34：28 PM).html",
-    "数据结构/作业_测练 ｜ 理工智课 (12_1_2024 1：34：28 PM).html",
-    "数据结构与算法/练习",
-    "数据结构与算法",
     "Excalidraw/Drawing 2024-11-30 13.55.23.excalidraw.md",
     "Excalidraw/Drawing 2024-11-27 22.27.18.excalidraw.md",
     "Welcome.md"
