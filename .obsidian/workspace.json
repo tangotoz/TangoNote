@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e64f6b106f6707dd",
+        "id": "253250b503f6b7a6",
         "type": "tabs",
         "children": [
           {
-            "id": "c56624bf14ed4180",
+            "id": "d67c884b48dc6e5f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c56624bf14ed4180",
+  "active": "b2a67e5f80dbad0c",
   "lastOpenFiles": [
+    "redis/Drawing 2024-12-06 22.16.47.excalidraw.md",
+    "redis/Redis面试常考经典题30道.html",
+    "redis",
     "工具使用/maven/maven.md",
     "数据结构与算法/算法/Prim算法.md",
     "工具使用/maven/image/img015.b413af9d.png",
@@ -207,8 +210,6 @@
     "数据结构/未命名.md",
     "数据结构与算法/数据结构",
     "数据结构/练习/第七章 图.md",
-    "数据结构与算法/练习/第七章-图练习.html",
-    "数据结构/练习/作业_测练 ｜ 理工智课 (12_1_2024 1：34：28 PM).html",
     "Excalidraw/Drawing 2024-11-30 13.55.23.excalidraw.md",
     "Excalidraw/Drawing 2024-11-27 22.27.18.excalidraw.md",
     "Welcome.md"
